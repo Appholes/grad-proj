@@ -1,2 +1,2 @@
-# my-grad-proj
+# grad-proj
 an academic/curriculum/syllabus assistant
